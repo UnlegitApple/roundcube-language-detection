@@ -1,13 +1,13 @@
 {
-    "name": "roundcube/managesieve",
+    "name": "unlegitapple/roundcubeLanguageDetection",
     "type": "roundcube-plugin",
-    "description": "Adds a possibility to manage Sieve scripts (incoming mail filters). It's clickable interface which operates on text scripts and communicates with server using managesieve protocol. Adds Filters tab in Settings.",
+    "description": "Adds the automatic detection of the browser's language to be set as a user preference.",
     "license": "GPLv3+",
     "version": "9.3",
     "authors": [
         {
-            "name": "Aleksander Machniak",
-            "email": "alec@alec.pl",
+            "name": "UnlegitApple",
+            "email": "root@slapmail.tk",
             "role": "Lead"
         }
     ],
