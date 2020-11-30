@@ -1,1 +1,1 @@
-# roundcubeLanguageDetection
+roundcube-language-detection
